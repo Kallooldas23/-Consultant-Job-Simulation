@@ -1,1 +1,1 @@
-# -Consultant-Job-Simulation
+Completed a Consultant Job Simulation, gaining hands-on experience in business analysis, strategic problem-solving, market research, and delivering data-driven recommendations to address real-world business challenges.
